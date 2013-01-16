@@ -1,0 +1,19 @@
+*End
+*Quit
+*System
+*Exit
+*Add type x y
+*del x y
+*link x y n x y n
+*dellink x y n
+select x y x y
+cut
+copy
+paste x y
+save filename
+load filename
+*new width height
+*run
+*helpcom
+*helptype
+*setparam x y
